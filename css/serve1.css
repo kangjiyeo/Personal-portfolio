@@ -1,0 +1,733 @@
+
+/*사각형레이어와 툴사용능력*/
+
+.Rectangle8
+{position: absolute;
+height: 716px;
+left: 0%;
+right: 0%;
+top: 1950px;
+
+background: #F5F8FC;
+border-radius: 0px;}
+
+.h7
+{
+  position: absolute;
+  height: 45px;
+  left:1.82%;
+  right: 67.17%;
+  top: 70px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 45px;
+  /* identical to box height, or 100% */
+  
+  
+  color: #1A1A1A; 
+}
+
+.Ability
+{
+position: absolute;
+height: 60px;
+left: 1.82%;
+right: 47.26%;
+top: 190px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+
+
+color: #7E7E7E;
+}
+.Rectanglewhite
+{position: absolute;
+  height: 286px;
+  left: 1.85%;
+  right: 74.95%;
+  top: 330px;
+  }
+
+.Rectanglewhite2
+{
+position: absolute;
+width: 77px;
+height: 81px;
+left: 110px;
+top: 370px;
+}
+
+.h8
+{
+position: absolute;
+height: 66px;
+left: 5.33%;
+right: 0.34%;
+top: 450px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+/* or 150% */
+
+
+color: #1A1A1A;
+}
+
+.photoshop1
+{
+/* 포토샵으로 각종 디자인연출가능 */
+
+position: absolute;
+height: 60px;
+left: 4%;
+right: 11.56%;
+top: 520px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+
+color: #7E7E7E;
+}
+
+.Rectanglewhite3
+{
+position: absolute;
+height: 286px;
+left: 25%;
+right: 49.91%;
+top:330px;
+}
+
+.Rectanglewhite4
+{
+  position: absolute;
+  width: 77px;
+  height: 81px;
+  left: 460px;
+  top: 370px;
+}
+
+.h9
+{ position: absolute;
+  height: 33px;
+  left: 29%;
+  right: 12.95%;
+  top: 450px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  
+  
+  color: #1A1A1A;  
+}
+.illustrator1
+{
+position: absolute;
+height: 60px;
+left: 27%;
+right: -14.06%;
+top: 520px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+
+color: #7E7E7E;
+}
+
+.Rectanglewhite5
+{ position: absolute;
+  height: 286px;
+  left: 47.78%;
+  right: 24.95%;
+  top: 330px;
+}
+
+.Rectanglewhite6
+{
+  position: absolute;
+  width: 77px;
+  height: 81px;
+  left: 810px;
+  top: 370px;
+}
+
+.h10
+{
+position: absolute;
+height: 66px;
+left: 49.27%;
+right: -21.92%;
+top: 450px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 33px;
+/* or 150% */
+
+
+color: #1A1A1A;
+}
+
+.html1
+{
+position: absolute;
+height: 60px;
+left: 49.10%;
+right: -13.56%;
+top: 520px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+
+color: #7E7E7E;
+}
+
+.Rectanglewhite7
+{
+  position: absolute;
+  height: 286px;
+  left: 71%;
+  right: 24.95%;
+  top: 330px; 
+}
+
+.Rectanglewhite8
+{
+  position: absolute;
+  width: 77px;
+  height: 81px;
+  left: 1160px;
+  top: 370px;
+}
+
+.h11
+{
+position: absolute;
+height: 66px;
+left: 74.50%;
+right: 13.77%;
+top: 450px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+/* or 150% */
+
+
+color: #1A1A1A;
+}
+
+.app
+{
+position: absolute;
+height: 60px;
+left: 73%;
+right: -5.97%;
+top: 520px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+
+color: #7E7E7E;
+}
+
+/*프로젝트설명*/
+
+.h12
+{
+  position: absolute;
+  height: 45px;
+  left: 1.82%;
+  right: 77.55%;
+  top: 810px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 45px;
+  /* identical to box height, or 100% */
+  
+  
+  color: #1A1A1A;   
+}
+
+.Project
+{
+position: absolute;
+height: 30px;
+left: 1.82%;
+right: 47.26%;
+top: 920px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+
+color: #7E7E7E;
+
+}
+
+.h13
+{
+position: absolute;
+width: 256px;
+height: 52px;
+left: 59.2px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+
+letter-spacing: -0.015em;
+
+color: #000000;}
+
+
+.h14
+{
+position: absolute;
+width: 256px;
+height: 52px;
+left: 59.2px;
+top: 1050px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+
+.Group
+{
+  position: absolute;
+  width: 622px;
+  height: 487px;
+  left: 25.99px;
+  top: 1200px;
+  
+}
+.Apple
+{ 
+position: absolute;
+width: 356px;
+height: 48px;
+left: 755.99px;
+top:1180px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+.Line6
+{position: absolute;
+width: 443px;
+height: 0px;
+left: 660px;
+top: 1310px;
+
+border: 1px solid #3d3d3d;}
+
+.Electronics
+{
+position: absolute;
+width: 400px;
+height: 146px;
+left: 709.99px;
+top: 1310px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+/* or 136% */
+
+letter-spacing: -0.015em;
+
+color: #7E7E7E;}
+
+.Production
+{position: absolute;
+width: 108px;
+height: 56px;
+left: 694px;
+top: 1483px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 72px;
+/* or 288% */
+
+letter-spacing: -0.015em;
+
+color: #ffffff;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+.Two
+{ position: absolute;
+  width: 48px;
+  height: 47px;
+  left: 840px;
+  top: 1507px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400px;
+  font-size: 30px;
+  line-height: 72px;
+  /* or 240% */
+  
+  letter-spacing: -0.015em;
+  
+  color: #000000;   
+}
+
+.Use
+{
+position: absolute;
+width: 162px;
+height: 54px;
+left: 673.99px;
+top: 1537px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400px;
+font-size: 25px;
+line-height: 72px;
+/* or 288% */
+
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.css
+{
+position: absolute;
+width: 264px;
+height: 61px;
+left: 840.99px;
+top: 1557px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400px;
+font-size: 30px;
+line-height: 72px;
+/* or 240% */
+
+letter-spacing: -0.015em;
+
+color: #000000;
+ 
+}
+
+.h15
+{
+  position: absolute;
+  width: 256px;
+  height: 52px;
+  left: 860.69px;
+  top: 1800px;
+  
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  /* or 150% */
+  
+  letter-spacing: -0.015em;
+  
+  color: #000000;}
+
+.watch
+{
+position: absolute;
+width: 619.31px;
+height: 619px;
+left: 480.69px;
+top: 1940px;
+}
+
+.T1
+{
+position: absolute;
+width: 400px;
+height: 48px;
+left: 40.18px;
+top: 2020px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 72px;
+/* or 150% */
+
+letter-spacing: -0.015em;
+
+color: #000000; 
+}
+
+.Line7
+{position: absolute;
+width: 443px;
+height: 0px;
+left: 2.30px;
+top: 2150px;
+
+border: 1px solid #000000;}
+
+
+.Collaboration
+{position: absolute;
+width: 289px;
+height: 154px;
+left: 83.18px;
+top: 2150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 30px;
+/* or 136% */
+
+letter-spacing: -0.015em;
+
+color: #7E7E7E;
+}
+
+.Production2
+{
+position: absolute;
+width: 108px;
+height: 56px;
+left: 61.09px;
+top: 2335px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 72px;
+/* or 288% */
+
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Use2
+{
+position: absolute;
+width: 162px;
+height: 54px;
+left: 35.09px;
+top: 2383px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 72px;
+/* or 288% */
+
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);}
+
+.Tw
+{position: absolute;
+width: 48px;
+height: 47px;
+left: 199.09px;
+top: 2358px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 72px;
+/* or 240% */
+
+letter-spacing: -0.015em;
+
+color: #000000;}
+
+.fi
+{
+position: absolute;
+width: 102px;
+height: 61px;
+left: 202.18px;
+top: 2408px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 72px;
+/* or 240% */
+
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+
+/*프로젝트에 들어간 사각형도형*/
+
+.around
+{
+position: absolute;
+width: 131px;
+height: 34px;
+left: 680px;
+top: 1527px;
+background: #D9D9D9;
+border-radius: 50px;
+}
+
+.around2
+{
+position: absolute;
+width: 169px;
+height: 34px;
+left: 664px;
+top: 1580px;
+
+background: #D9D9D9;
+border-radius: 50px;
+}
+
+.around3
+{position: absolute;
+width: 131px;
+height: 34px;
+left: 44.09px;
+top: 2380px;
+
+background: #D9D9D9;
+border-radius: 50px;}
+
+.around4
+{
+position: absolute;
+width: 169px;
+height: 34px;
+left: 24.09px;
+top: 2430px;
+
+background: #D9D9D9;
+border-radius: 50px;
+}
+
+/*사각형snb 효과안에 들어간*/
+
+.grid1{
+  position: absolute;
+  height: 800px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 0px;
+}
+
+.Ellipse
+{position: absolute;
+  height: 50px;
+  left: 22.89%;
+  right: 68.75%;
+  top: 680px;}
+.name
+{
+position: absolute;
+width: 130px;
+height: 30px;
+left: 40px;
+right: 40px;
+}
+
+.grid2
+{position: absolute;
+  height: 800px;
+  left: 20.75%;
+  right: 0%;
+  top: 0px;
+  
+  background: #F5F8FC;
+}
