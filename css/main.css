@@ -16,6 +16,14 @@
     top: 110px;
     }
 
+.FirstView
+{position: absolute;
+    width: 245px;
+    height: 245px;
+    left: 155px;
+    top: 99.5px;
+}
+
 .kanji
 {   position: absolute;
     width: 167px;
