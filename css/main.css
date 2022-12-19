@@ -9,7 +9,7 @@
 /*배경이미지집어넣기*/
 
 .bady{
-     background-color: pink;
+    background-image: url("./image/image rain");
 }
 
 /*상단페이지 정렬*/
