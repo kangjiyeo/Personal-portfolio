@@ -697,6 +697,7 @@ border-radius: 50px;
 
 .grid1{
   position: absolute;
+  width: 250px;
   height: 800px;
   left: 0%;
   right: 0%;
