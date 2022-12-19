@@ -6,6 +6,12 @@
     font-style: normal;
 }
 
+/*배경이미지집어넣기*/
+
+.bady{
+    background-image: url("./image/image rain");
+}
+
 /*상단페이지 정렬*/
 
 .Page
