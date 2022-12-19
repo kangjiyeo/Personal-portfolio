@@ -693,13 +693,11 @@ width:91.8155517578125px;
 /*내사진이미지*/
 .kangiyeon
 {
-position: absolute;
-width: 550px;
-height: 551.92px;
-left: 61.32%;
-right: 0%;
-top: 990px;
-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+ position: absolute;
+    height: 551.92px;
+    left: 61.32%;
+    right: 0%;
+    top: 60px;
 }
 
 .motion
