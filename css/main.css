@@ -135,7 +135,6 @@ url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
     text-decoration: none;
     font-family: 'Noto Sans', sans-serif;
     font-style: normal;
-    font-weight: 400;
     font-size: 15px;
     line-height: 30px;
     /* identical to box height, or 200% */
@@ -695,6 +694,7 @@ width:91.8155517578125px;
 .kangiyeon
 {
 position: absolute;
+width: 550px;
 height: 551.92px;
 left: 61.32%;
 right: 0%;
