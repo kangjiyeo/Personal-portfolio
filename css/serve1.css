@@ -696,13 +696,14 @@ border-radius: 50px;
 /*사각형snb 효과안에 들어간*/
 
 .grid1{
-  position: absolute;
+  position: fixed;
   width: 350px;
   height: 800px;
   left: 0%;
   right: 0%;
   top: 0px;
-  
+  z-index: 10;
+
   background: #FFFFFF;
   box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.1);
   border-radius: 0px;
