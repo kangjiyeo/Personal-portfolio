@@ -51,11 +51,48 @@ right: 100px;
 
 /*배경이미지집어넣기*/
 
-.btm{
-    background-image: url("./image/image rain");
+.body{
+    max-width: fit-content;
+    background-image: url(/image/purple_sky.jpg);
 }
 
 
+/*마우스 호버*/
+/*
+.snb-menu a:nth-child(1)::before{background:rgb(217, 217, 217);}
+.snb-menu a:nth-child(2)::before{background:rgb(217, 217, 217);}
+.snb-menu a:nth-child(3)::before{background:rgb(217, 217, 217);}
+.snb-menu a:nth-child(4)::before{background:rgb(217, 217, 217);}
+.snb-menu a:nth-child(5)::before{background:rgb(217, 217, 217);}
+.snb-menu a:nth-child(6)::before{background:rgb(217, 217, 217);}
+.snb-menu a:hover::before{width: 100%;}
+
+*/
+
+.font1:hover{
+    background-color: rgb(217, 217, 217); 
+    color:#fabccb;
+}
+.font2:hover{
+    background-color: rgb(217, 217, 217); 
+    color:#fabccb;
+}
+.font3:hover{
+    background-color: rgb(217, 217, 217); 
+    color:#fabccb;
+}
+.font4:hover{
+    background-color: rgb(217, 217, 217); 
+    color:#fabccb;
+}
+.font5:hover{
+    background-color: rgb(217, 217, 217); 
+    color:#fabccb;
+}
+.font6:hover{
+    background-color: rgb(217, 217, 217); 
+    color:#fabccb;
+}
 /*상단페이지 정렬*/
 
 .Page
