@@ -6,6 +6,12 @@
     font-style: normal;
 }
 
+
+/*배경화면넣기*/
+
+body { background-color: rgb(247, 247, 247); }
+
+
 /*팝업창 만들기*/
 
 #popup{
@@ -46,14 +52,6 @@ right: 100px;
     font-size: 20px;
     float: right;
     margin-right: 10px;
-}
-
-
-/*배경이미지집어넣기*/
-
-.body{
-    max-width: fit-content;
-    background-image: url(/image/purple_sky.jpg);
 }
 
 
