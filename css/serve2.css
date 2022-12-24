@@ -34,14 +34,73 @@ line-height: 30px;
 
 color: #7E7E7E;}
 
-/*스와이퍼슬라이드 표현 이미지*/
+
+/*이미지 옆으로 이동하는 도형*/
+
+
+.logo{position: absolute;
+width: 94px;
+height: 94px;
+left: 50px;
+top: 3150px;
+}
+
+
+.logo2{position: absolute;
+    width: 94px;
+    height: 94px;
+    left: 1550px;
+    top: 3150px;
+}
+    
+/*이미지 스와이퍼 슬라이드*/
 
 .sw
-{   position: absolute;
-    height: 60px;
-    left: 5%;
-    right: 47.26%;
-    top: 2940px;    
+{
+position: absolute;
+width: 518px;
+height: 546px;
+left: 100px;
+top: 2930px;
+
+border: 10px solid #D5D5D5;
+border-radius: 20px 30px 20px 20px;    
+}
+.sw2
+{
+position: absolute;
+width: 518px;
+height: 546px;
+left: 680px;
+top: 2930px;
+
+border: 10px solid #D5D5D5;
+border-radius: 20px 30px 20px 20px; 
+}
+
+.sw3
+{
+position: absolute;
+width: 518px;
+height: 546px;
+left: 1260px;
+top: 2930px;
+
+border: 10px solid #D5D5D5;
+border-radius: 20px 30px 20px 20px;
+}
+
+.sw4
+{
+position: absolute;
+width: 518px;
+height: 546px;
+left: 1840px;
+top: 2930px;
+
+border: 10px solid #D5D5D5;
+border-radius: 20px 30px 20px 20px;
+
 }
 
 /*푸터부분 주소와 프로필*/
