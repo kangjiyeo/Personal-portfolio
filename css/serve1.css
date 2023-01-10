@@ -646,6 +646,15 @@ letter-spacing: -0.015em;
 color: #000000;
 }
 
+.Use3
+{ position: absolute;
+  width: 169px;
+  height: 64px;
+  left: 420px;
+  top: 2380px;
+}
+
+
 /*프로젝트에 들어간 사각형도형*/
 
 .around
